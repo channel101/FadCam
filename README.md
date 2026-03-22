@@ -1,31 +1,32 @@
 <div align="center">
-    
-<!-- <img src="https://github.com/user-attachments/assets/9c1c7f9e-8798-4baa-b803-fa82cf1a6bd7" style="width: 700px; height: auto;" >  this is the old banner -->
 
-<img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/tvBanner.jpg" style="width: 900px; height: auto;" >
+<!-- <img src="https://github.com/user-attachments/assets/9c1c7f9e-8798-4baa-b803-fa82cf1a6bd7" style="width: 700px; height: auto;" > this is the old banner -->
+
+<img src="./fastlane/metadata/android/en-US/images/tvBanner.jpg" style="width: 900px; height: auto;" >
 
 <!-- https://github.com/user-attachments/assets/c9eeaf74-6649-4810-b420-e2c4ad4bd365 -->
 
+<br> </div>
 
-<br>
-</div>
+> [!TIP]
+> This project is part of the [FadSec Lab suite](https://github.com/fadsec-lab).
+> <br> Discover our focus on ad-free, privacy-first applications and stay updated on
+> future releases!
 
-> [!Tip]
-> This project is part of the [FadSec Lab suite](https://github.com/fadsec-lab). <br> Discover our focus on ad-free, privacy-first applications and stay updated on future releases!
+> [!NOTE]
+> Unlock FadCam Pro with lifetime access: Visit the
+> [Shop](https://www.patreon.com/cw/Fadedx/shop)
 
-> [!Note]
-> Unlock FadCam Pro with lifetime access: Visit the [Shop](https://www.patreon.com/cw/Fadedx/shop) 
-
-
----
+* * *
 
 <div align="center">
-    
+
 <img src="https://github.com/anonfaded/FadCam/assets/124708903/d6f99201-65c7-4c93-bf13-d4a0d65172ac" style="width: 100px; height: auto;" >
 
 # `>_` FadCam
 
-**Privacy-focused Android multimedia suite: background video recording, dashcam, screen recorder, live streaming & remote control - ad-free & open-source.**
+**Privacy-focused Android multimedia suite: background video recording, dashcam, screen
+recorder, live streaming & remote control - ad-free & open-source.**
 
 [![GitHub all releases](https://img.shields.io/github/downloads/anonfaded/FadCam/total?label=Downloads&logo=github)](https://github.com/anonfaded/FadCam/releases/)
 [![SourceForge Downloads](https://img.shields.io/sourceforge/dt/fadcam.svg?label=SourceForge%20Downloads&color=red)](https://sourceforge.net/projects/fadcam/files/latest/download)
@@ -34,33 +35,21 @@
 [![ko-fi badge](https://img.shields.io/badge/buy_me_a-coffee-red)](https://ko-fi.com/D1D510FNSV)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DFadedx%26type%3Dpatrons%26suffix%3Dpatrons%2520%257C%2520Shop&style=social)](https://www.patreon.com/cw/Fadedx/shop)
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-orange?logo=patreon&label=Patreon)](https://www.patreon.com/cw/Fadedx/shop) -->
-[![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN )
+[![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN)
 
 <!-- <img alt="Discord" src="https://img.shields.io/discord/1263384048194027520?style=social&logo=discord&label=Join%20chat&color=red"> -->
 
+<br> <br>
 
-
-<br>
-<br>
-
-<!--
-<a href="https://play.google.com/store/apps/details?id=com.fadcam">
-    <img src="https://github.com/anonfaded/FadCam/blob/a75be2fe8e6fca539c18af8e0a208508ff1ad4ed/app/src/main/assets/PreRegisterOnGooglePlay_Badge.png"
-    alt="Pre-Register on Google Play"
-    height="50"></a>
--->
+<!-- <a href="https://play.google.com/store/apps/details?id=com.fadcam"> <img src="https://github.com/anonfaded/FadCam/blob/a75be2fe8e6fca539c18af8e0a208508ff1ad4ed/app/src/main/assets/PreRegisterOnGooglePlay_Badge.png" alt="Pre-Register on Google Play" height="50"></a> -->
 <br>
 
 <a href="https://apt.izzysoft.de/packages/com.fadcam">
-    <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
-    alt="Get it on IoD"
-    height="70"></a>
+<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IoD" height="70"></a>
 
 <a href="https://f-droid.org/packages/com.fadcam">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="70"></a>
-    
+<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="70"></a>
+
 <br>
 
 <!--
@@ -69,94 +58,95 @@
 [![Get it on Google Play](https://github.com/anonfaded/FadCam/blob/a75be2fe8e6fca539c18af8e0a208508ff1ad4ed/app/src/main/assets/GetItOnGooglePlay_Badge.png)](https://play.google.com/store/apps/details?id=com.fadcam)
 -->
 
-| ⭐ |<img src="https://github.com/user-attachments/assets/c730eda3-5887-458d-8df1-971a74807b73" style="width: 100px; height: auto;" > | *New app from FadSec-Lab suite:🎉* <br> Also, check out our new Windows app! Visit here: [FadCrypt](https://github.com/anonfaded/FadCrypt)  |
-|--|-------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ⭐ | <img src="https://github.com/user-attachments/assets/c730eda3-5887-458d-8df1-971a74807b73" style="width: 100px; height: auto;" > | *New app from FadSec-Lab suite:🎉* <br> Also, check out our new Windows app! Visit here: [FadCrypt](https://github.com/anonfaded/FadCrypt) |
+| --- | --- | :--- |
 
-
-<br>
-</div>
+<br> </div>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
----
+* * *
 
-<details>
-    <summary>Expand Table of Contents</summary>
-    
+<details> <summary>Expand Table of Contents</summary>
+
 <br>
-        
-- [Purpose](#purpose)
-- [Screenshots](#-screenshots)
-- [Featured on](#featured-on)
-- [Download](https://github.com/anonfaded/FadCam#-download)
-- [Features](#features)
-- [Upcoming Features](#upcoming-features)
-- [Join Community](#join-community)
-- [Support](#support)
-- [Contributions](#contributions)
-- [Credits](#credits)
+
+- [Purpose](#_-purpose)
+- [Screenshots](#_--screenshots)
+- [Featured on](#_-featured-on)
+- [Download](#_-%EF%B8%8F-download)
+- [Features](#_-features)
+- [Upcoming Features](#_-upcoming-features)
+- [Join Community](#_-join-community)
+- [Support](#_-support--shop)
+- [Contributions](#_-contributions)
+- [Credits](#_--credits)
 
 </details>
 
----
+* * *
 
 ## `>_` Purpose
 
-FadCam is developed with the goal of providing a powerful, privacy-focused multimedia suite for Android devices. This comprehensive app includes dashcam functionality, screen recording with annotations, live streaming over local networks, and remote camera control — all designed for **ethical use** only.
+FadCam is developed with the goal of providing a powerful, privacy-focused multimedia
+suite for Android devices.
+This comprehensive app includes dashcam functionality, screen recording with
+annotations, live streaming over local networks, and remote camera control — all
+designed for **ethical use** only.
 
 **Ethical Use Cases Include:**
-- **Personal Security:** Use as a dashcam while driving, CCTV at home with remote monitoring, or recording proof in situations where needed for yourself
+- **Personal Security:** Use as a dashcam while driving, CCTV at home with remote
+  monitoring, or recording proof in situations where needed for yourself
 - **Content Creation:** Screen recording with professional annotation tools
 - **Remote Monitoring:** Live streaming and remote control for security purposes
 - **Research and Documentation:** Multi-purpose recording tools for various needs
 
-> [!Caution]
-> **Misuse Disclaimer:** <br>
-> The developers of FadCam do not condone or support any unethical or illegal use of this software. Misuse, such as unauthorized surveillance or invasion of privacy, is strictly against our guidelines. The authors are not responsible for any misuse of the application.
+> [!CAUTION]
+> **Misuse Disclaimer:** <br> The developers of FadCam do not condone or support any
+> unethical or illegal use of this software.
+> Misuse, such as unauthorized surveillance or invasion of privacy, is strictly against
+> our guidelines. The authors are not responsible for any misuse of the application.
 
 ## `>_` 📱 Screenshots
 
 <div align="center">
-<!--     <img src="https://github.com/anonfaded/FadCam/assets/124708903/4a93c111-fc67-4d75-94b1-fa4e01822998" style="width: 50px; height: auto;" >
-    <br>
-    <em>apk icon</em> -->
-    <br><br>
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg" style="width: 200px; height: auto;" >
-    <img src="https://github.com/anonfaded/FadCam/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/10.jpg" style="width: 200px; height: auto;" >
- <br>
 
-<!--     <br> -->
-<!--     <em>UI</em> -->
-   
+<table>
+  <tr>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="180"></a></td>
+  </tr>
+  <tr>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg" width="180"></a></td>
+    <td><a href="./fastlane/metadata/android/en-US/images/phoneScreenshots/10.jpg"><img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/10.jpg" width="180"></a></td>
+  </tr>
+</table>
+
+<!-- <br> -->
+<!-- <em>UI</em> -->
+
 </div>
-<!--     <details>
-        <summary><strong>More Screenshots</strong></summary>
-        <img src="/img/3.png" style="width: 700px; height: auto;" >
-        <br>
-        <img src="/img/4.png" style="width: 700px; height: auto;" >
-        <br>
-        <img src="/img/5.png" style="width: 700px; height: auto;" >
-    </details> -->
+<!-- <details> <summary><strong>More Screenshots</strong></summary> <img src="/img/3.png" style="width: 700px; height: auto;" > <br> <img src="/img/4.png" style="width: 700px; height: auto;" > <br> <img src="/img/5.png" style="width: 700px; height: auto;" > </details> -->
 
 ## `>_` Featured On
 
-<details>
-<summary><strong>Expand Featured Content</strong></summary>
+<details> <summary><strong>Expand Featured Content</strong></summary>
 
 ### `>_` Featured Audio Podcast
-- [closednetwork.io](https://closednetwork.io/podcast/episode-42-deepseek-ai-oh-my/) at `1:15:22` timestamp
+
+- [closednetwork.io](https://closednetwork.io/podcast/episode-42-deepseek-ai-oh-my/) at
+  `1:15:22` timestamp
 
 ### `>_` Featured Videos
+
 - [HowToMen on YouTube](https://youtu.be/gU9ddvtqL3E?si=6GpPO2fKQxT6RWKz&t=297)
 - [HowToMen 2nd feature :) ](https://youtu.be/3pOoU5JjfnE?si=JMwoHfGyocXuvkC7&t=520)
 - [Xtream Droid on YouTube](https://youtu.be/PImJehUqOC0?si=kQKrwk7kdHJT0_-8&t=238)
@@ -190,12 +180,14 @@ FadCam is developed with the goal of providing a powerful, privacy-focused multi
 - [msn.com](https://www.msn.com/es-es/noticias/tecnologia/esta-app-convierte-tu-m%C3%B3vil-en-una-c%C3%A1mara-discreta-graba-v%C3%ADdeo-sin-encender-la-pantalla/ar-AA1Hf4dR)
 - [RivollPlay Tech on YouTube](https://youtu.be/v0grlqT_qOw?si=PRdB2oLhJLXiXBU_)
 - [softonic on X](https://x.com/softonic/status/1939598582643830840)
+
 <!-- - [Someone in comments mentioned about fadcam, on TikTok](https://www.tiktok.com/@unijpeg/video/7438464230807948600) -->
 <!-- - [Tech Knowing](https://youtu.be/5ZqjensX_XQ?si=iXIY4tMf1iBW9zoR) -->
 <!-- - [EI Tech - Emanuele Iafulla on YouTube](https://youtu.be/n8k9J4GnoCY?si=D6RVGSD832jOFhiQ) -->
 <!-- [Police recording with FadCam](https://www.facebook.com/joseph.anthony.emaikwu/videos/fadcam/3206531569486276/) -->
 
 ### `>_` Articles and Listings
+
 - [fmhy.net](https://fmhy.net/android-iosguide#camera-tools)
 - [discuss.privacyguides.net](https://discuss.privacyguides.net/t/fadcam-open-source-cam-background-video-recording-even-when-the-screen-is-off/19823)
 - [appteka.com](https://appteka.store/app/bcdr185175)
@@ -260,37 +252,28 @@ FadCam is developed with the goal of providing a powerful, privacy-focused multi
 - [ruanyazyk.com](https://ruanyazyk.com/tools/media/imageProduction.html#fadcam)
 - [centrum.cz](https://www.centrum.cz/chytre-nahravani-aplikace-fadcam-toci-video-i-s-vypnutou-obrazovkou-89fff656-54ab-5ff0-9d30-5c26e9bd9a3a)
 - [meta.appinn.net](https://meta.appinn.net/t/topic/72853/2)
+
 <!-- - https://www.cityrumors.it/tecnologia/il-trucco-per-fare-video-di-nascosto-con-il-tuo-smartphone-tutti-lo-stanno-provando.html -->
 
 </details>
 
-
-
 ## `>_` ⬇️ Download
 
-Download the latest `apk` file directly from the [releases page](https://github.com/anonfaded/FadCam/releases).
+Download the latest `apk` file directly from the
+[releases page](https://github.com/anonfaded/FadCam/releases).
 
 [<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="70">](https://github.com/anonfaded/FadCam/releases)
 
 Or:
 
-<!--
-<a href="https://play.google.com/store/apps/details?id=com.fadcam">
-    <img src="https://github.com/anonfaded/FadCam/blob/a75be2fe8e6fca539c18af8e0a208508ff1ad4ed/app/src/main/assets/PreRegisterOnGooglePlay_Badge.png"
-    alt="Pre-Register on Google Play"
-    height="50"></a>
--->
+<!-- <a href="https://play.google.com/store/apps/details?id=com.fadcam"> <img src="https://github.com/anonfaded/FadCam/blob/a75be2fe8e6fca539c18af8e0a208508ff1ad4ed/app/src/main/assets/PreRegisterOnGooglePlay_Badge.png" alt="Pre-Register on Google Play" height="50"></a> -->
 
 <br>
 
 <a href="https://apt.izzysoft.de/packages/com.fadcam">
-    <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
-    alt="Get it on F-Droid"
-    height="70"></a>
+<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on F-Droid" height="70"></a>
 <a href="https://f-droid.org/packages/com.fadcam">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="70"></a>
+<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="70"></a>
 
 <!-- **Downloads logs:**
 - 5k -> 10 Jul 2024 (1st month)
@@ -299,84 +282,72 @@ Or:
 
 ## `>_` Features:
 
-<details>
-<summary><strong>🎬 FadRec Screen Recorder</strong></summary>
+<details> <summary><strong>🎬 FadRec Screen Recorder</strong></summary>
 
 - Full-featured screen recording with annotation tools (pen, eraser, text, shapes)
 - Multi-layer editing with version control and unlimited undo/redo
 - Automatic project saving with full recovery options
-- Sidebar overlay menu for quick-access recording controls
-</details>
+- Sidebar overlay menu for quick-access recording controls </details>
 
-<details>
-<summary><strong>🏠 FadCam Remote</strong></summary>
+<details> <summary><strong>🏠 FadCam Remote</strong></summary>
 
 - Live stream camera feed over local network with beautiful web interface
 - Remote control features: start/stop recording, adjust settings, toggle torch
 - Real-time monitoring: battery level, storage status, recording status
-- Perfect for security monitoring and remote access
-</details>
+- Perfect for security monitoring and remote access </details>
 
-<details>
-<summary><strong>📸 Dashcam & Background Recording</strong></summary>
+<details> <summary><strong>📸 Dashcam & Background Recording</strong></summary>
 
 - Background video recording with screen off capability
 - Fragmented MP4 format for zero corruption risk
 - Auto-splitting large files with customizable size limits
-- Wide-angle camera detection and support
-</details>
+- Wide-angle camera detection and support </details>
 
-<details>
-<summary><strong>🎥 Video & Audio Controls</strong></summary>
+<details> <summary><strong>🎥 Video & Audio Controls</strong></summary>
 
 - Multiple resolutions and 60/90fps support
 - Orientation control and quality options
 - Audio recording with customizable bitrate and sample rate
 - Custom watermark text overlays
-- Geotagging with location data embedding
-</details>
+- Geotagging with location data embedding </details>
 
-<details>
-<summary><strong>🎨 User Interface & Experience</strong></summary>
+<details> <summary><strong>🎨 User Interface & Experience</strong></summary>
 
 - Clean Material Design with bottom sheet actions
 - 7+ app themes including AMOLED, Light, and System themes
 - 15+ customizable app icons
-- In-app "What's New" page for feature discovery
-- Standalone beta installation without conflicts
-</details>
+- In-app “What’s New” page for feature discovery
+- Standalone beta installation without conflicts </details>
 
-<details>
-<summary><strong>📁 File Management & Playback</strong></summary>
+<details> <summary><strong>📁 File Management & Playback</strong></summary>
 
 - Enhanced thumbnails with index, duration, and file size
 - Sorting & filtering by date, size, and more
 - Trash bin with restore and auto-delete options
 - Inbuilt video player using ExoPlayer
 - Video info view with resolution, size, and duration details
-- Direct video renaming in-app
-</details>
+- Direct video renaming in-app </details>
 
-<details>
-<summary><strong>🔧 Advanced Features</strong></summary>
+<details> <summary><strong>🔧 Advanced Features</strong></summary>
 
 - Storage indicator with real-time space and estimated record time
 - Clock widget with customizable date/time and colors
 - Custom notification presets and descriptions
 - Audio input source selection (phone mic, wired/Bluetooth)
 - Dynamic watermarks with timestamp, logo, and GPS options
- - App Shortcuts: Three quick actions are available (Start Recording, Stop Recording, Toggle Torch). These shortcuts can be triggered without opening the app and can be mapped with key-mapping apps (e.g. MacroDroid) to hardware buttons (like volume buttons) for convenient control.
-</details>
+- App Shortcuts: Three quick actions are available (Start Recording, Stop Recording,
+  Toggle Torch). These shortcuts can be triggered without opening the app and can be
+  mapped with key-mapping apps (e.g. MacroDroid) to hardware buttons (like volume
+  buttons) for convenient control.
+  </details>
 
-<details>
-<summary><strong>🌐 Localization & Privacy</strong></summary>
+<details> <summary><strong>🌐 Localization & Privacy</strong></summary>
 
 - Multiple language support (Italian, and more coming)
 - 100% ad-free and open-source
 - No data collection or tracking
 - Hide from recent apps for privacy
-- Ethical use guidelines and disclaimer
-</details>
+- Ethical use guidelines and disclaimer </details>
 
 ## `>_` Upcoming Features:
 
@@ -384,39 +355,39 @@ Or:
 - **In-App Video Editor:** Quick trim/edit with Faditor Mini (coming soon).
 - **Enhanced Remote Features:** Additional remote control capabilities.
 
-
-
-
 ## `>_` Join Community
-Join our [Discord server](https://discord.gg/kvAZvdkuuN) to share ideas, seek help, or connect with other users. Your feedback and contributions are welcome!
 
-[![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN )
-
+Join our [Discord server](https://discord.gg/kvAZvdkuuN) to share ideas, seek help, or
+connect with other users.
+Your feedback and contributions are welcome!
+[![Discord](https://img.shields.io/discord/1263384048194027520?label=Join%20Us%20on%20Discord&logo=discord)](https://discord.gg/kvAZvdkuuN)
 
 ## `>_` Support & Shop
 
-Buy FadCam Pro (lifetime access) from my Patreon shop. Your purchases help fund development and maintenance. 
+Buy FadCam Pro (lifetime access) from my Patreon shop.
+Your purchases help fund development and maintenance.
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DFadedx%26type%3Dpatrons%26suffix%3Dpatrons%2520%257C%2520Shop&style=for-the-badge)](https://www.patreon.com/cw/Fadedx/shop)
 
-
 ## `>_` Contributions
 
-We welcome any contributions to improve this project! Whether it's bug fixes or new features, your help is appreciated.
+We welcome any contributions to improve this project!
+Whether it’s bug fixes or new features, your help is appreciated.
 
 ### `>_` How to Contribute
-1. **Open an Issue First**: Before starting any work, please open an [issue](https://github.com/anonfaded/FadCam/issues) to discuss your proposed changes and get approval.
+
+1. **Open an Issue First**: Before starting any work, please open an
+   [issue](https://github.com/anonfaded/FadCam/issues) to discuss your proposed changes
+   and get approval.
 2. **Fork the Repo**: Fork the repository to make your changes.
 3. **Submit a PR**: Create a pull request with a clear description of your changes.
+4. Translate app using [Weblate](https://hosted.weblate.org/projects/fadcam/).
 
 We look forward to your contributions!
-
 
 ### `>_` 🙌 Contributions & Credits
 
 - 🖼️ App screenshots and banner design by [T010](https://ko-fi.com/t010nl)
 - The 3D text in icon is from <a href="https://www.textstudio.com/">Font generator</a>.
-- Icons used in app by <a target="_blank" href="https://icons8.com">Icons8</a> and <a target="_blank" href="https://www.flaticon.com/">Flaticon</a>.
-
-
-
+- Icons used in app by <a target="_blank" href="https://icons8.com">Icons8</a> and
+  <a target="_blank" href="https://www.flaticon.com/">Flaticon</a>.
