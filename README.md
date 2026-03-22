@@ -76,16 +76,16 @@ recorder, live streaming & remote control - ad-free & open-source.**
 
 <br>
 
-- [Purpose](#purpose)
-- [Screenshots](#-screenshots)
-- [Featured on](#featured-on)
-- [Download](https://github.com/anonfaded/FadCam#-download)
-- [Features](#features)
-- [Upcoming Features](#upcoming-features)
-- [Join Community](#join-community)
-- [Support](#support)
-- [Contributions](#contributions)
-- [Credits](#credits)
+- [Purpose](#_-purpose)
+- [Screenshots](#_--screenshots)
+- [Featured on](#_-featured-on)
+- [Download](#_-%EF%B8%8F-download)
+- [Features](#_-features)
+- [Upcoming Features](#_-upcoming-features)
+- [Join Community](#_-join-community)
+- [Support](#_-support--shop)
+- [Contributions](#_-contributions)
+- [Credits](#_--credits)
 
 </details>
 
