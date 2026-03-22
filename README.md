@@ -47,9 +47,6 @@ recorder, live streaming & remote control - ad-free & open-source.**
 <a href="https://apt.izzysoft.de/packages/com.fadcam">
 <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IoD" height="70"></a>
 
-<a href="http://www.amazon.com/gp/product/B0CZKWZ8PG/ref=mas_pm_FadCam">
-<img src="https://github.com/anonfaded/FadCam/assets/124708903/43550ba6-dcf2-46cb-8aa5-2a882968c529" alt="Get it on Amazon appstore" height="47"></a>
-
 <a href="https://f-droid.org/packages/com.fadcam">
 <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="70"></a>
 
@@ -277,9 +274,6 @@ Or:
 <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on F-Droid" height="70"></a>
 <a href="https://f-droid.org/packages/com.fadcam">
 <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="70"></a>
-
-<a href="http://www.amazon.com/gp/product/B0CZKWZ8PG/ref=mas_pm_FadCam">
-<img src="https://github.com/anonfaded/FadCam/assets/124708903/43550ba6-dcf2-46cb-8aa5-2a882968c529" alt="Get it on Amazon appstore" height="47"></a>
 
 <!-- **Downloads logs:**
 - 5k -> 10 Jul 2024 (1st month)
