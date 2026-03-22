@@ -387,6 +387,7 @@ Whether it’s bug fixes or new features, your help is appreciated.
    and get approval.
 2. **Fork the Repo**: Fork the repository to make your changes.
 3. **Submit a PR**: Create a pull request with a clear description of your changes.
+4. Translate app using [Weblate](https://hosted.weblate.org/projects/fadcam/).
 
 We look forward to your contributions!
 
